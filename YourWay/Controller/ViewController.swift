@@ -35,6 +35,7 @@ class ViewController: UIViewController {
         }else{
             nextStory+=2
         }
+        updateUI()
     }
     
     func updateUI(){
